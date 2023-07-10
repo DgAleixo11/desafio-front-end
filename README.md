@@ -6,8 +6,6 @@ Bem-vindo! Este repositório contém minha solução para [Rocketseat´s](https:
 
 # 🧠 Sobre
 
- O objetivo deste projeto é ajudar outras pessoas que estão procurando uma oportunidade como Desenvolvedor Frontend. Através do tutorial que fiz no YouTube, desejo ajudar você a aprimorar suas habilidades de Frontend e aprender novas formas de resolver desafios técnicos.
-
 O desafio consiste em implementar um e-commerce para venda de canecas e camisetas, que deve ter as seguintes funcionalidades:
 
 - [x] Catálogo de produtos com paginação
